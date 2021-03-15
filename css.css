@@ -27,3 +27,9 @@ body{
 .signup_form{
 	padding: 20px 40px;
 }
+.signup_form .font{
+    font-size: 18px;
+	color: #130f40;
+	margin: 5px 0;
+}
+	
