@@ -8,5 +8,7 @@ const email_error = document.getElementById('email_error');
 const pass_error = document.getElementById('pass_error');
 const confirm_pass_error = document.getElementById('confirm_pass_error');
 
-email.addEventListener('textInput', email_Verify);
-password.addEventListener('textInput', pass_Verify);
+username.addEventListener('textInput', email_Verify);
+email.addEventListener('textInput', pass_Verify);
+password.addEventListener('textInput', email_Verify);
+confirm_password.addEventListener('textInput', pass_Verify);
