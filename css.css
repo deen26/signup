@@ -60,4 +60,11 @@ body{
 .signup_form button:hover{
 	background: #151c6a;
 }
+.signup_form #email_error,
+.signup_form #pass_error{
+	margin-top: 5px;
+	width: 345px;
+	font-size: 18px;
+}
+
 	
